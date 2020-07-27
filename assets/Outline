@@ -1,0 +1,8 @@
+click start button-- add event listener
+timer starts--set time interval
+user answers question 1--select answer
+user answers question 2--select answer
+incorrect answer: time subtracts from clock
+all questions answer or timer reaches 0=game over
+game over, user stores initials and score--use local storage and prompt
+
